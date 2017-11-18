@@ -15,6 +15,12 @@ class App extends React.Component {
             <Collapsible title="Overview">
               Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute.
             </Collapsible>
+            <Collapsible title="Features">
+              Lorem ipsum dolor sit amet.
+            </Collapsible>
+            <Collapsible title="Software">
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur, placeat.
+            </Collapsible>
           </div>
         </div>
       </div>

@@ -24,4 +24,8 @@ class Collapsible extends React.Component {
   }
 }
 
+Collapsible.PropTypes = {
+  title: PropTypes.string
+}
+
 export default Collapsible;
